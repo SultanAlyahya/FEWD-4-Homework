@@ -1,0 +1,76 @@
+body,html
+{
+    width: 100%;
+    height: 100%;
+    padding: 0%;
+    margin: 0%;
+}
+#header
+{
+    width: 100%;
+    height: 10%;
+    background-color: gray;
+    justify-content: space-between;
+    display: flex;
+}
+.uselessBox
+{
+    width: 100%;
+    height: 17.5%;
+    text-align: center;
+}
+main
+{width: 100%;
+    height: 40%;
+    background-color: gray;
+    display: flex;
+    justify-content: space-around;
+}
+p{
+    display: block;
+}
+.inMain{
+    height: 100%;
+    width: 30%;
+    text-align: center;
+}
+#mainImg{
+    height: 200px;
+    widows: 200px;
+}
+#fotter
+{
+    background-color: black;
+    width: 100%;
+    height: 10%;
+    text-align: right;
+}
+h4
+{color: white;
+}
+ul
+{
+    display: flex;
+}
+li
+{
+    list-style: none;
+    padding-right: 30px;
+    padding-left: 30px;
+    font-size: 40px;
+    border-right: 1px solid black;
+}
+li:last-child
+{
+    border-right: none;
+    margin-right: 60px;
+}
+#botton
+{
+    width: 300px;
+    height: 200px;
+}
+#logo{
+    width: 100px;
+    height: 75px;
+}

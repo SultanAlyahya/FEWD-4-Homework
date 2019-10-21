@@ -1,0 +1,42 @@
+.imgsfooter
+{
+	margin: 2%;
+	display: flex;
+}
+.four{
+	border:3px solid rgb(210, 210, 210);
+	margin: 2px;
+}
+body
+{
+	padding: 5%;
+}
+img{
+	height: 100%;
+	width: 100%;
+}
+h1,p{
+	color: rgb(180, 180, 180);
+}
+.date,a{
+	color: lightskyblue;
+}
+h3{
+	color:gray;
+}
+footer{
+	color:gray;
+}
+
+/* 
+
+## Style Hints: 
+
+Body Font Size = 12px
+	 Line Height = 17px
+	 Font Family = "Times New Roman", serif
+	 Font Color = #656565
+
+Link Hover Color = #20222a
+
+*/
